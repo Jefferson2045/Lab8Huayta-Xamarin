@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab8_css.MainPage">
+    <ContentPage.Resources>
+        <StyleSheet Source="../Styles/Styles.css" />
+    </ContentPage.Resources>
+
+    <StackLayout >
+        <Button Text="CSS En Xamarin" StyleClass="CSSButton" />
+        <Label Text="Bienvenido Jheferson Huayta" TextColor="YellowGreen" StyleClass="lblTitulo" />
+
+        <Image Source="dodge.jpg" />
+
+        <Label x:Name="lbl" TextColor="Black" Text="Esto es Kimetsu " HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+
+        <Button Text="Click para ver el anime" VerticalOptions="EndAndExpand"/>
+        <Button Text="Siguiente" VerticalOptions="EndAndExpand" />
+    </StackLayout>
+
+</ContentPage>

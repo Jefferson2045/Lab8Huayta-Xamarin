@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQ8vjNdac0h6Xt41E3egS+Ql2b1LjKke3ADb8I53n04pWTTir4zU+Zni2RmrEL4mADaDBgu84Hb6BWNIgNEPmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEFERSON\\source\\repos\\LAB8-XAMARIN\\Lab8_css\\Lab8_css\\Lab8_css.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEFERSON\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JEFERSON\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JEFERSON\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\JEFERSON\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\JEFERSON\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
